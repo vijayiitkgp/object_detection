@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>476506-69-1006729-1.jpeg</filename>
+    <path>a-PascalVOC-export/Annotations/476506-69-1006729-1.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>393</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>30.557029177718835</xmin>
+        <ymin>75.92286420863309</ymin>
+        <xmax>333.2979664014147</xmax>
+        <ymax>94.43309352517986</ymax>
+    </bndbox>
+</object><object>
+    <name>text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>28.293545534924846</xmin>
+        <ymin>96.2796987410072</ymin>
+        <xmax>282.36958443854996</xmax>
+        <ymax>108.71998651079137</ymax>
+    </bndbox>
+</object><object>
+    <name>text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26.595932802829356</xmin>
+        <ymin>111.54732464028777</ymin>
+        <xmax>294.81874447391687</xmax>
+        <ymax>124.55308003597122</ymax>
+    </bndbox>
+</object><object>
+    <name>text</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>166.3660477453581</xmin>
+        <ymin>127.38041816546763</ymin>
+        <xmax>335.56145004420864</xmax>
+        <ymax>140.95164118705037</ymax>
+    </bndbox>
+</object>
+</annotation>

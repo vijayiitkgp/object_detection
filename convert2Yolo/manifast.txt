@@ -1,0 +1,10 @@
+D:\object detection\convert2Yolo\voc\JPEGImages\476506-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\476529-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\476574-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\476576-69-1006729-1%20-%20Copy.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\476649-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\476652-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\477238-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\478195-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\478201-69-1006729-1.jpg
+D:\object detection\convert2Yolo\voc\JPEGImages\478215-69-1006729-1.jpg
